@@ -34,6 +34,7 @@ def main():
         'Crew Quarters': {'West': 'Bathrooms', 'item': 'Space Suit'}
     }
 
+
 #initializing the variable, current_room to great hall as the starting point for the player.
     current_room = 'Brig'
     inventory =[]
