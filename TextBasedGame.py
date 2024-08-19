@@ -97,7 +97,6 @@ def main():
         else:
             print("Invalid input. Please enter a valid direction or type 'Exit' to be warped to the exit.\n")# If player inputs anything else but 'North', 'South', 'East', 'West', when prompted to enter a direction to go.
 
-
 if __name__ == "__main__":
     main()
 
